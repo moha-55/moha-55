@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Mohamed</h2>
+<h2 align="left">Hi 👋! I'm Mohamed</h2> <img align="middle" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjZ2cTAwNGd5ZXlwb2M3b3pkNTJqcnQ3MmJyNnF5dTB5bzJjZzF2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GRPy8MKag9U1U88hzY/giphy.gif"  />
 <div align="left">
   <p>👨🏼‍🎓 Currently Pursuing my Master of Engineering in System and Technology.</p>
   <p>👨🏼‍💻 An engineer with a passion and great interest in Data Science, Machine Learning, Deep Learning, and Robotics.</p>
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="100" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjZ2cTAwNGd5ZXlwb2M3b3pkNTJqcnQ3MmJyNnF5dTB5bzJjZzF2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GRPy8MKag9U1U88hzY/giphy.gif"  />
+
 
 ###
 
