@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! I'm Mohamed</h2>
-👨🏼‍🎓 Currently Pursing my Master of Engineering in System and Technology <br> 👨🏼‍💻 an Engineer with a passion and great interest in Data Science, Machine Learning, Deep Learning, and Robotics.
+👨🏼‍🎓 Currently Pursing my Master of Engineering in System and Technology. <br> 👨🏼‍💻 An engineer with a passion and great interest in Data Science, Machine Learning, Deep Learning, and Robotics.
 
 
 ###
