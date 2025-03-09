@@ -58,11 +58,6 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/moha-55/moha-55/output/snake.svg" alt="Snake animation" />
 
 ###
 
