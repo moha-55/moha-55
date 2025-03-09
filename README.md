@@ -49,22 +49,6 @@
 </div>
 
 <hr />
-###
-
-<h3 align="left">📫 Connect With Me</h3>
-<div align="right">
-  <img height="100" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajBjZWYwaW4yYnZxM3IzMnU0cGFjaTVibXh6dWMzNm9xOHZ6aW0xYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3bc9YL28QWi3pYzi1p/giphy.gif" alt="connect gif" />
-</div>
-<div align="left">
-  <a href="mailto:moh.magdymaraie@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/maraie/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-</div>
-
-<hr />
 
 ###
 
