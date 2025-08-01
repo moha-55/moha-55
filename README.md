@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Mohamed</h2> 
+<h2 align="left">Hi!👋 I'm Mohamed</h2> 
   <p>👨🏼‍🎓 Currently Pursuing my Master of Engineering in System and Technology.</p>
   <p>👨🏼‍💻 An engineer with a passion in Data Science, Machine Learning, Deep Learning, Automation and Robotics.</p>
 </div>
